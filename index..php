@@ -1,8 +1,8 @@
 <?php
 
 $to = "jacksonfriend12@gmail.com";
-$subject = "intro to computer science";
-$message = "this is a message for omer . we want to know if you can build a site for our company";
+$subject = "Checking email";
+$message = "this is testing message";
 $from = "admin@ahmed.almakkahelectronics.com";
 $headers = "From  : $from";
 
